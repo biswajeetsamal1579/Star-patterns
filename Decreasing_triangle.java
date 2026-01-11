@@ -8,6 +8,7 @@ public class Decreasing_triangle {
         System.out.println("enter the number of rows ");
         int n = sc.nextInt();
 
+        System.out.println("The pattern is : ");
         for(int i=1 ; i<=n ; i++){
 
             for(int j=i ; j<=n ; j++){
